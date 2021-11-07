@@ -130,8 +130,9 @@ a:focus {
   border-radius: 50%;
   text-align: center;
   line-height: 19px;
-  font-style: 10px;
+  font-size: 10px;
   font-weight: 500;
+  color: #ffffff;
 }
 /*Header - контент в колонку
 ==============================*/
